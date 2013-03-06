@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/Example-Class-6/6-2
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/Example-Class-6/6-2/main.c
+END
+main.vala
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/Example-Class-6/6-2/main.vala
+END
+sub-bar.vala
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/Example-Class-6/6-2/sub-bar.vala
+END
+maman-bar.vala
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/Example-Class-6/6-2/maman-bar.vala
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/Example-Class-6/6-2/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/trunk/Example-Class-4/4-2
+END
+sub-bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/Example-Class-4/4-2/sub-bar.h
+END
+maman-bar.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/Example-Class-4/4-2/maman-bar.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/Example-Class-4/4-2/main.c
+END
+maman-bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/Example-Class-4/4-2/maman-bar.c
+END
+sub-bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/Example-Class-4/4-2/sub-bar.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/Example-Class-4/4-2/Makefile
+END
